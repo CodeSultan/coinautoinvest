@@ -1,0 +1,39 @@
+
+<% provide(:title, "Edit profile") %>
+<h1 style="text-align: center; margin: 30px 0px;">Update your Account</h1>
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <%= form_for(@user) do |f| %>
+        <%= render 'shared/error_messages' %>
+
+        <h3><%= @current_user.firstName + " " + @current_user.lastName %></h3>
+
+        <%= f.label :id, class:"control-label", value: "User ID" %>
+        <%= f.text_field :id, class: "form-control edit_form", value: @current_user.id, :readonly=>true %>
+
+        <%= f.label :email %>
+        <%= f.email_field :email, class: 'form-control edit_form' %>
+
+        <%= f.label :api_key %>
+        <%= f.text_field :api_key, class: 'form-control edit_form' %>
+
+        <%= f.label :api_secret_key %>
+        <%= f.text_field :api_secret_key, class: 'form-control edit_form' %>
+
+        <%= f.label :password, "New password"%>
+        <%= f.password_field :password, class: 'form-control edit_form' %>
+
+        <%= f.label :password_confirmation, "Retype your new password" %>
+        <%= f.password_field :password_confirmation, class: 'form-control edit_form' %>
+
+        <%= f.submit "Save changes", class: "btn btn-primary" %>
+    <% end %>
+  </div>
+</div>
+
+<style>
+  .edit_form {
+    margin-bottom: 15px !important;
+  }
+</style>

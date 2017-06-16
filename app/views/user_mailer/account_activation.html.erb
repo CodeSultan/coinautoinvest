@@ -1,0 +1,11 @@
+
+<h1>Coin Auto-invest Place</h1>
+
+<h5>Hi <%= @user.firstName %>,</h5>
+
+<p>
+  Welcome to Our site! <br>
+  Click on the link below to activate your account:
+</p>
+
+<%= link_to "Activate", edit_account_activation_url(@user.activation_token, email: @user.email) %>

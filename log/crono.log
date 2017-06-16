@@ -1,0 +1,1833 @@
+# Logfile created on 2017-06-05 04:59:17 -0700 by logger.rb/56815
+I, [2017-06-05T04:59:21.900245 #22698]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-05T04:59:21.900423 #22698]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-05T04:59:21.900484 #22698]  INFO -- : Jobs:
+I, [2017-06-05T04:59:21.900921 #22698]  INFO -- : 'Schedule' with rule 'every 5 seconds' next time will perform at 2017-06-05 11:59:26 UTC
+I, [2017-06-05T04:59:26.899968 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T04:59:26.902381 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463561f8>
+E, [2017-06-05T04:59:26.902755 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T04:59:31.901431 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T04:59:31.903322 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561462bef60>
+E, [2017-06-05T04:59:31.904040 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T04:59:36.902945 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T04:59:36.904815 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561462382f8>
+E, [2017-06-05T04:59:36.905049 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T04:59:41.903950 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T04:59:41.905813 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561461b9480>
+E, [2017-06-05T04:59:41.905989 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T04:59:46.904634 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T04:59:46.905113 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614615d590>
+E, [2017-06-05T04:59:46.905163 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T04:59:51.905496 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T04:59:51.906135 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561460c27e8>
+E, [2017-06-05T04:59:51.906176 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T04:59:56.905954 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T04:59:56.907759 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146024368>
+E, [2017-06-05T04:59:56.908093 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:01.907068 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:01.907836 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145fd60a0>
+E, [2017-06-05T05:00:01.907927 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:06.907406 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:06.908247 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f4cb20>
+E, [2017-06-05T05:00:06.908295 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:11.908225 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:11.909356 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145ea5fa0>
+E, [2017-06-05T05:00:11.909636 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:16.908760 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:16.910411 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e1fe50>
+E, [2017-06-05T05:00:16.910565 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:21.909824 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:21.911783 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145da75b8>
+E, [2017-06-05T05:00:21.912016 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:26.911305 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:26.913247 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145cd8b78>
+E, [2017-06-05T05:00:26.913450 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:31.912016 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:31.912806 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c83790>
+E, [2017-06-05T05:00:31.912860 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:36.913279 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:36.915025 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561454029e0>
+E, [2017-06-05T05:00:36.915337 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:41.915018 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:41.917017 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614535ccc0>
+E, [2017-06-05T05:00:41.917251 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:46.915697 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:46.918023 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614513ad48>
+E, [2017-06-05T05:00:46.918327 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:51.916947 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:51.919293 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144ff98f8>
+E, [2017-06-05T05:00:51.919456 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:00:56.918157 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:00:56.920670 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144736568>
+E, [2017-06-05T05:00:56.921006 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:01.918766 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:01.920193 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146498250>
+E, [2017-06-05T05:01:01.920289 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:06.919555 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:06.921153 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463f3818>
+E, [2017-06-05T05:01:06.921421 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:11.920894 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:11.922573 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614636f180>
+E, [2017-06-05T05:01:11.922881 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:16.922309 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:16.923706 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561462cd1a0>
+E, [2017-06-05T05:01:16.923908 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:21.923263 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:21.924660 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614625db20>
+E, [2017-06-05T05:01:21.924865 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:26.924485 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:26.926117 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561461e82f8>
+E, [2017-06-05T05:01:26.926506 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:31.925034 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:31.925607 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146178390>
+E, [2017-06-05T05:01:31.925745 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:36.926417 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:36.927872 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561460ec570>
+E, [2017-06-05T05:01:36.928101 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:41.927655 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:41.929170 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146032da0>
+E, [2017-06-05T05:01:41.929369 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:46.929357 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:46.930766 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145fec170>
+E, [2017-06-05T05:01:46.930963 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:51.930330 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:51.931558 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f753e0>
+E, [2017-06-05T05:01:51.931760 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:01:56.931931 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:01:56.933245 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145ee1898>
+E, [2017-06-05T05:01:56.933442 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:01.932965 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:01.934370 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e2bcf0>
+E, [2017-06-05T05:02:01.934562 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:06.934040 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:06.935505 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145db3cc8>
+E, [2017-06-05T05:02:06.935702 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:11.935331 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:11.936802 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144aff9b0>
+E, [2017-06-05T05:02:11.936997 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:16.936517 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:16.937881 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c98398>
+E, [2017-06-05T05:02:16.938078 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:21.937228 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:21.938591 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145416c60>
+E, [2017-06-05T05:02:21.938820 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:26.938788 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:26.940429 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561453b18d8>
+E, [2017-06-05T05:02:26.940861 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:31.939406 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:31.940908 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561451a5a58>
+E, [2017-06-05T05:02:31.941106 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:36.941196 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:36.942661 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145054898>
+E, [2017-06-05T05:02:36.942932 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:41.942190 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:41.943738 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561447d2170>
+E, [2017-06-05T05:02:41.943978 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:46.943807 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:46.945193 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556143a9ba38>
+E, [2017-06-05T05:02:46.945405 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:51.944566 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:51.946120 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146423720>
+E, [2017-06-05T05:02:51.946317 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:02:56.946106 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:02:56.947702 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463a51b8>
+E, [2017-06-05T05:02:56.948004 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:01.947718 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:01.948963 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561462f7f68>
+E, [2017-06-05T05:03:01.949126 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:06.948690 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:06.950096 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146273c68>
+E, [2017-06-05T05:03:06.950294 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:11.950148 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:11.950879 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561462089e0>
+E, [2017-06-05T05:03:11.950989 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:16.950896 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:16.952421 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146198208>
+E, [2017-06-05T05:03:16.952617 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:21.952492 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:21.953906 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614610d3d8>
+E, [2017-06-05T05:03:21.954112 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:26.953826 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:26.955226 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146084380>
+E, [2017-06-05T05:03:26.955427 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:31.954635 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:31.956222 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146003410>
+E, [2017-06-05T05:03:31.956422 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:36.956107 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:36.957453 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f87838>
+E, [2017-06-05T05:03:36.957648 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:41.957017 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:41.958524 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f18078>
+E, [2017-06-05T05:03:41.958721 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:46.958803 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:46.974873 #22709] ERROR -- : Finished Schedule in 0.02 seconds with error: undefined method `perform' for #<Schedule:0x00556145e6c7a0>
+E, [2017-06-05T05:03:46.975183 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:51.960148 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:51.961655 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145dc3b00>
+E, [2017-06-05T05:03:51.961851 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:03:56.961726 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:03:56.963208 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144b0be90>
+E, [2017-06-05T05:03:56.963406 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:01.962628 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:01.964193 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145caac00>
+E, [2017-06-05T05:04:01.964391 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:06.964126 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:06.965423 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c26ae0>
+E, [2017-06-05T05:04:06.965621 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:11.965148 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:11.966622 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561453ca298>
+E, [2017-06-05T05:04:11.966822 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:16.966001 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:16.967394 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614523c458>
+E, [2017-06-05T05:04:16.967627 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:21.967572 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:21.969019 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561450998f8>
+E, [2017-06-05T05:04:21.969239 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:26.969079 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:26.970479 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144831bc0>
+E, [2017-06-05T05:04:26.970678 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:31.970568 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:31.972072 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144205968>
+E, [2017-06-05T05:04:31.972278 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:36.972037 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:36.973385 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146450e78>
+E, [2017-06-05T05:04:36.973623 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:41.973642 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:41.974963 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463c90b8>
+E, [2017-06-05T05:04:41.975213 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:46.974504 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:46.975872 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614630b220>
+E, [2017-06-05T05:04:46.976071 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:51.975803 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:51.977197 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146289680>
+E, [2017-06-05T05:04:51.977394 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:04:56.977446 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:04:56.978762 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614621caa8>
+E, [2017-06-05T05:04:56.978990 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:01.978500 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:01.979885 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561461a7898>
+E, [2017-06-05T05:05:01.980082 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:06.979888 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:06.981292 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146130a68>
+E, [2017-06-05T05:05:06.981490 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:11.981450 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:11.982965 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561460948c0>
+E, [2017-06-05T05:05:11.983307 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:16.982772 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:16.984188 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614600e0e0>
+E, [2017-06-05T05:05:16.984392 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:21.983581 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:21.984828 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145fa0798>
+E, [2017-06-05T05:05:21.985074 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:26.984271 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:26.985724 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f205c0>
+E, [2017-06-05T05:05:26.985924 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:31.985953 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:31.987345 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e7f828>
+E, [2017-06-05T05:05:31.987538 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:36.986973 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:36.988500 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145df2d10>
+E, [2017-06-05T05:05:36.988751 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:41.988613 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:41.990079 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145d70db0>
+E, [2017-06-05T05:05:41.990334 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:46.989652 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:46.991173 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145cb7bd0>
+E, [2017-06-05T05:05:46.991372 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:51.990764 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:51.992248 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c321d8>
+E, [2017-06-05T05:05:51.992448 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:05:56.992313 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:05:56.993794 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561453e8770>
+E, [2017-06-05T05:05:56.993993 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:01.993877 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:01.995297 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614526b758>
+E, [2017-06-05T05:06:01.995493 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:06.995380 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:06.996860 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561450c2640>
+E, [2017-06-05T05:06:06.997100 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:11.997017 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:11.998233 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614487d908>
+E, [2017-06-05T05:06:11.998447 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:16.998169 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:16.999768 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561442becb0>
+E, [2017-06-05T05:06:17.000034 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:21.999162 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:22.000679 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614645ecf8>
+E, [2017-06-05T05:06:22.000998 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:27.000356 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:27.001829 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463cf4b8>
+E, [2017-06-05T05:06:27.002028 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:32.001940 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:32.003284 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146311ff8>
+E, [2017-06-05T05:06:32.003482 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:37.003612 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:37.004824 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614629b178>
+E, [2017-06-05T05:06:37.005025 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:42.004499 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:42.005885 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614621f3c0>
+E, [2017-06-05T05:06:42.006082 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:47.005494 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:47.007166 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561461aa368>
+E, [2017-06-05T05:06:47.007450 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:52.006536 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:52.008086 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614613f810>
+E, [2017-06-05T05:06:52.008265 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:06:57.007904 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:06:57.009617 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561460a1340>
+E, [2017-06-05T05:06:57.009887 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:02.008774 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:02.009378 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146010ac0>
+E, [2017-06-05T05:07:02.009514 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:07.009185 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:07.009651 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145facd40>
+E, [2017-06-05T05:07:07.009722 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:12.010450 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:12.012204 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f2c118>
+E, [2017-06-05T05:07:12.012555 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:17.011481 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:17.013844 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e83360>
+E, [2017-06-05T05:07:17.015968 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:22.012605 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:22.013730 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145dfeb38>
+E, [2017-06-05T05:07:22.013889 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:27.013537 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:27.014726 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145d75798>
+E, [2017-06-05T05:07:27.014952 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:32.014487 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:32.015725 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145cc6a40>
+E, [2017-06-05T05:07:32.015892 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:37.015474 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:37.015931 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c37db8>
+E, [2017-06-05T05:07:37.015994 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:42.016088 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:42.017474 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561453f0dd0>
+E, [2017-06-05T05:07:42.017681 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:47.017817 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:47.019519 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561452b5768>
+E, [2017-06-05T05:07:47.020172 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:52.018739 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:52.020404 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561450cff48>
+E, [2017-06-05T05:07:52.020766 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:07:57.020315 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:07:57.021879 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144896750>
+E, [2017-06-05T05:07:57.022165 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:02.021232 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:02.022708 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614466f2b0>
+E, [2017-06-05T05:08:02.022926 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:07.022630 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:07.023082 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614645d8d0>
+E, [2017-06-05T05:08:07.023125 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:12.023180 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:12.024605 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463cd528>
+E, [2017-06-05T05:08:12.024809 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:17.024233 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:17.025812 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146310ce8>
+E, [2017-06-05T05:08:17.026154 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:22.025819 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:22.027235 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614628f5d0>
+E, [2017-06-05T05:08:22.027437 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:27.027014 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:27.028390 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614621e1f0>
+E, [2017-06-05T05:08:27.028771 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:32.027634 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:32.029013 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561461a8c20>
+E, [2017-06-05T05:08:32.029196 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:37.029029 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:37.029613 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614613c980>
+E, [2017-06-05T05:08:37.029653 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:42.029743 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:42.031150 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146097b10>
+E, [2017-06-05T05:08:42.031347 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:47.030606 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:47.032425 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614600f5f8>
+E, [2017-06-05T05:08:47.032632 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:52.032063 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:52.033358 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145fa25c0>
+E, [2017-06-05T05:08:52.033557 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:08:57.033526 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:08:57.034753 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f22730>
+E, [2017-06-05T05:08:57.035001 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:02.035153 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:02.036600 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e820f0>
+E, [2017-06-05T05:09:02.036804 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:07.036555 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:07.038909 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145dfcb80>
+E, [2017-06-05T05:09:07.039509 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:12.037497 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:12.038510 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145d72ac0>
+E, [2017-06-05T05:09:12.038736 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:17.038291 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:17.038925 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145cc2b48>
+E, [2017-06-05T05:09:17.038994 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:22.039244 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:22.040651 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c34e88>
+E, [2017-06-05T05:09:22.040842 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:27.040376 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:27.041613 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561453ebe48>
+E, [2017-06-05T05:09:27.042053 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:32.042009 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:32.044157 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145293758>
+E, [2017-06-05T05:09:32.044296 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:37.043807 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:37.045452 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561450cd9a0>
+E, [2017-06-05T05:09:37.045766 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:42.045292 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:42.046656 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144885108>
+E, [2017-06-05T05:09:42.046836 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:47.046970 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:47.048293 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561442d3228>
+E, [2017-06-05T05:09:47.048520 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:52.047826 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:52.049046 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146453268>
+E, [2017-06-05T05:09:52.049207 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:09:57.048480 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:09:57.050901 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463cb2f0>
+E, [2017-06-05T05:09:57.051998 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:02.050182 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:02.051454 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463090b0>
+E, [2017-06-05T05:10:02.051615 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:07.050837 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:07.052158 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561462772f0>
+E, [2017-06-05T05:10:07.052446 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:12.052073 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:12.053307 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614621be28>
+E, [2017-06-05T05:10:12.053467 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:17.053706 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:17.054144 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561461a6df8>
+E, [2017-06-05T05:10:17.054185 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:22.054179 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:22.055447 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146126b08>
+E, [2017-06-05T05:10:22.056071 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:27.055343 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:27.057552 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614608fd48>
+E, [2017-06-05T05:10:27.058092 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:32.056655 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:32.057962 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614600d4b0>
+E, [2017-06-05T05:10:32.058435 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:37.057292 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:37.058114 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f93e80>
+E, [2017-06-05T05:10:37.058281 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:42.057965 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:42.058808 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f1fd50>
+E, [2017-06-05T05:10:42.059128 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:47.059364 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:47.060866 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e7e2e8>
+E, [2017-06-05T05:10:47.061067 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:52.060725 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:52.062043 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145df2450>
+E, [2017-06-05T05:10:52.062202 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:10:57.061844 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:10:57.063254 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145d701a8>
+E, [2017-06-05T05:10:57.063426 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:02.062965 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:02.064232 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145cb6730>
+E, [2017-06-05T05:11:02.064399 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:07.063994 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:07.065178 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c31058>
+E, [2017-06-05T05:11:07.065341 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:12.064686 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:12.065899 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561453e1c18>
+E, [2017-06-05T05:11:12.066061 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:17.066003 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:17.067398 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145269890>
+E, [2017-06-05T05:11:17.067900 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:22.066658 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:22.068090 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561450bbc00>
+E, [2017-06-05T05:11:22.068385 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:27.067446 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:27.068331 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614487ae38>
+E, [2017-06-05T05:11:27.068457 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:32.068124 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:32.069338 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614426a570>
+E, [2017-06-05T05:11:32.069511 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:37.069381 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:37.072527 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561464459d8>
+E, [2017-06-05T05:11:37.072868 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:42.071299 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:42.072580 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463b6580>
+E, [2017-06-05T05:11:42.072741 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:47.072518 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:47.073763 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463045b0>
+E, [2017-06-05T05:11:47.073924 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:52.073642 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:52.074869 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146266f40>
+E, [2017-06-05T05:11:52.075034 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:11:57.075058 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:11:57.076700 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146218318>
+E, [2017-06-05T05:11:57.076999 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:02.076424 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:02.077645 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561461a6e20>
+E, [2017-06-05T05:12:02.077804 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:07.077340 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:07.078692 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146118b48>
+E, [2017-06-05T05:12:07.079065 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:12.078640 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:12.079814 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614608c6c0>
+E, [2017-06-05T05:12:12.080090 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:17.079079 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:17.079753 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146006458>
+E, [2017-06-05T05:12:17.079891 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:22.079543 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:22.080442 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f8aec0>
+E, [2017-06-05T05:12:22.080633 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:27.080181 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:27.081483 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f1cdf8>
+E, [2017-06-05T05:12:27.081774 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:32.080799 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:32.081389 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e79860>
+E, [2017-06-05T05:12:32.081508 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:37.081416 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:37.082704 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145de2500>
+E, [2017-06-05T05:12:37.082957 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:42.082961 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:42.084376 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144b10698>
+E, [2017-06-05T05:12:42.084575 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:47.084190 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:47.085524 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145cb31e8>
+E, [2017-06-05T05:12:47.085817 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:52.085867 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:52.087314 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c2ad48>
+E, [2017-06-05T05:12:52.087511 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:12:57.086914 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:12:57.088525 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561453cfcc0>
+E, [2017-06-05T05:12:57.088853 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:02.088191 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:02.088941 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614524b160>
+E, [2017-06-05T05:13:02.089080 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:07.088765 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:07.089232 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561450a7ef8>
+E, [2017-06-05T05:13:07.089326 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:12.089220 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:12.090317 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144870938>
+E, [2017-06-05T05:13:12.090494 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:17.090416 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:17.091053 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614420aaf8>
+E, [2017-06-05T05:13:17.091101 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:22.091876 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:22.092870 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463ce4a0>
+E, [2017-06-05T05:13:22.092994 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:27.092602 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:27.094162 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614628bde0>
+E, [2017-06-05T05:13:27.094432 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:32.094211 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:32.095654 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561461a92d8>
+E, [2017-06-05T05:13:32.095851 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:37.095106 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:37.096555 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146086c48>
+E, [2017-06-05T05:13:37.096854 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:42.096530 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:42.098066 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f892f0>
+E, [2017-06-05T05:13:42.098266 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:47.097775 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:47.099079 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e79928>
+E, [2017-06-05T05:13:47.099375 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:52.099013 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:52.100461 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144b121a0>
+E, [2017-06-05T05:13:52.100745 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:13:57.101854 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:13:57.103378 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c28638>
+E, [2017-06-05T05:13:57.103814 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:02.102862 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:02.104336 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561452010d8>
+E, [2017-06-05T05:14:02.104565 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:07.103727 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:07.105329 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614487d318>
+E, [2017-06-05T05:14:07.105610 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:12.104476 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:12.107796 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614480c640>
+E, [2017-06-05T05:14:12.108124 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:17.107942 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:17.109304 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561451a56c0>
+E, [2017-06-05T05:14:17.109502 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:22.109258 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:22.110444 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c25000>
+E, [2017-06-05T05:14:22.110612 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:27.112155 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:27.113729 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144b06328>
+E, [2017-06-05T05:14:27.113932 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:32.113132 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:32.115558 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e307a0>
+E, [2017-06-05T05:14:32.115812 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:37.114449 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:37.116496 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f3db70>
+E, [2017-06-05T05:14:37.116718 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:42.115865 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:42.117319 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614602ec28>
+E, [2017-06-05T05:14:42.117513 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:47.117041 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:47.118254 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146175050>
+E, [2017-06-05T05:14:47.118525 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:52.118823 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:52.121464 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614625ff60>
+E, [2017-06-05T05:14:52.121806 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:14:57.119684 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:14:57.122709 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146308020>
+E, [2017-06-05T05:14:57.122912 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:02.120517 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:02.121909 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146499ad8>
+E, [2017-06-05T05:15:02.122108 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:07.121368 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:07.122813 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614647bc40>
+E, [2017-06-05T05:15:07.123028 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:12.122068 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:12.123453 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fc19aee8>
+E, [2017-06-05T05:15:12.123646 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:17.123152 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:17.124568 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fc28f1a0>
+E, [2017-06-05T05:15:17.124789 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:22.124900 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:22.126727 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fc664820>
+E, [2017-06-05T05:15:22.127022 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:27.126154 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:27.127546 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fcec7968>
+E, [2017-06-05T05:15:27.127759 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:32.126883 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:32.128708 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fd0b1af8>
+E, [2017-06-05T05:15:32.129155 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:37.128392 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:37.129821 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fd1b07b0>
+E, [2017-06-05T05:15:37.130170 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:42.129987 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:42.131385 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556143c8d170>
+E, [2017-06-05T05:15:42.131565 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:47.130619 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:47.132344 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561447cb578>
+E, [2017-06-05T05:15:47.132601 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:52.131951 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:52.133304 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561450634d8>
+E, [2017-06-05T05:15:52.133498 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:15:57.132733 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:15:57.134102 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561451a41d0>
+E, [2017-06-05T05:15:57.134300 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:02.133740 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:02.134787 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561453b2b20>
+E, [2017-06-05T05:16:02.134933 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:07.134433 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:07.135866 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614541aa18>
+E, [2017-06-05T05:16:07.136064 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:12.135279 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:12.136515 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145ca5f20>
+E, [2017-06-05T05:16:12.136713 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:17.136495 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:17.137864 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144b04cf8>
+E, [2017-06-05T05:16:17.138065 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:22.137693 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:22.139028 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145dc1828>
+E, [2017-06-05T05:16:22.139224 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:27.139017 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:27.139748 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e6dfb0>
+E, [2017-06-05T05:16:27.139867 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:32.140340 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:32.141744 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f18b18>
+E, [2017-06-05T05:16:32.141955 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:37.141960 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:37.143384 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145f88238>
+E, [2017-06-05T05:16:37.143584 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:42.143509 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:42.144957 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146004770>
+E, [2017-06-05T05:16:42.145150 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:47.144652 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:47.146052 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146095e28>
+E, [2017-06-05T05:16:47.146269 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:52.145924 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:52.147299 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614613f298>
+E, [2017-06-05T05:16:52.147478 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:16:57.146910 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:16:57.148325 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561461aefd0>
+E, [2017-06-05T05:16:57.148529 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:02.148385 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:02.149689 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fd65d790>
+E, [2017-06-05T05:17:02.149889 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:07.149447 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:07.150794 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fd1b00f8>
+E, [2017-06-05T05:17:07.150989 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:12.150606 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:12.152124 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fdd86c10>
+E, [2017-06-05T05:17:12.152400 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:17.152240 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:17.154235 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fc4b5448>
+E, [2017-06-05T05:17:17.154449 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:22.153504 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:22.154868 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fcec3d68>
+E, [2017-06-05T05:17:22.155172 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:27.154435 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:27.156022 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fd2c66b8>
+E, [2017-06-05T05:17:27.156222 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:32.155836 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:32.157153 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fc259050>
+E, [2017-06-05T05:17:32.157352 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:37.157254 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:37.158559 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fdb339b8>
+E, [2017-06-05T05:17:37.158844 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:42.158967 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:42.160738 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fdada390>
+E, [2017-06-05T05:17:42.160912 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:47.161188 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:47.162372 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fda14cf8>
+E, [2017-06-05T05:17:47.162529 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:52.162798 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:52.164361 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fc2c35b8>
+E, [2017-06-05T05:17:52.164562 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:17:57.163626 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:17:57.165158 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561464984a8>
+E, [2017-06-05T05:17:57.165349 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:02.165160 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:02.166536 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fda3a890>
+E, [2017-06-05T05:18:02.166731 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:07.166828 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:07.168245 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fd05c990>
+E, [2017-06-05T05:18:07.168441 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:12.168091 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:12.169553 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fc3350f0>
+E, [2017-06-05T05:18:12.169748 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:17.169560 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:17.170890 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556146400bf8>
+E, [2017-06-05T05:18:17.171089 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:22.170952 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:22.172480 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fc40da18>
+E, [2017-06-05T05:18:22.172834 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:27.172034 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:27.173736 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fc368810>
+E, [2017-06-05T05:18:27.174041 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:32.173720 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:32.175179 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x005561463701e8>
+E, [2017-06-05T05:18:32.175579 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:37.176582 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:37.177944 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614634d738>
+E, [2017-06-05T05:18:37.178142 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:42.177242 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:42.178616 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x007ff0fd245270>
+E, [2017-06-05T05:18:42.178812 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:47.178692 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:47.180515 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556143713370>
+E, [2017-06-05T05:18:47.180726 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:52.180065 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:52.180757 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556144795180>
+E, [2017-06-05T05:18:52.180849 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:18:57.181446 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:18:57.182894 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614501dcd0>
+E, [2017-06-05T05:18:57.183090 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:19:02.182276 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:19:02.182715 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614515d000>
+E, [2017-06-05T05:19:02.182760 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:19:07.183301 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:19:07.184759 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614539af98>
+E, [2017-06-05T05:19:07.184956 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:19:12.184029 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:19:12.185382 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x0055614540f7f8>
+E, [2017-06-05T05:19:12.185582 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:19:17.184622 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:19:17.185075 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145c95d78>
+E, [2017-06-05T05:19:17.185120 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:19:22.185854 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:19:22.187281 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145ce6e58>
+E, [2017-06-05T05:19:22.187460 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:19:27.186538 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:19:27.188005 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145dacf40>
+E, [2017-06-05T05:19:27.188201 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:19:32.187658 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:19:32.189060 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145e2b5e8>
+E, [2017-06-05T05:19:32.189254 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:19:37.188963 #22709]  INFO -- : Perform Schedule
+E, [2017-06-05T05:19:37.189554 #22709] ERROR -- : Finished Schedule in 0.00 seconds with error: undefined method `perform' for #<Schedule:0x00556145ed63a8>
+E, [2017-06-05T05:19:37.189629 #22709] ERROR -- : /home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T05:19:40.575221 #25603]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-05T05:19:40.575330 #25603]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-05T05:19:40.575372 #25603]  INFO -- : Jobs:
+I, [2017-06-05T05:19:40.575673 #25603]  INFO -- : 'OrderSchedule' with rule 'every 1 day at 12:13' next time will perform at 2017-06-05 12:13:00 -0700
+I, [2017-06-05T06:23:29.485914 #34216]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-05T06:23:29.506168 #34216]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-05T06:23:29.506399 #34216]  INFO -- : Jobs:
+I, [2017-06-05T06:23:29.506957 #34216]  INFO -- : 'OrderSchedule' with rule 'every 5 seconds' next time will perform at 2017-06-05 13:23:34 UTC
+I, [2017-06-05T06:23:34.486705 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:23:34.490328 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:23:39.488344 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:23:39.490920 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:23:44.489974 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:23:44.491662 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:23:49.491181 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:23:49.493699 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:23:54.492636 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:23:54.493748 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:23:59.493603 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:23:59.497692 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:04.494565 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:04.498597 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:09.496420 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:09.498797 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:14.497503 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:14.500157 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:19.498794 #34233]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:19.499717 #34233]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:24.208505 #34421]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-05T06:24:24.208618 #34421]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-05T06:24:24.208659 #34421]  INFO -- : Jobs:
+I, [2017-06-05T06:24:24.208911 #34421]  INFO -- : 'OrderSchedule' with rule 'every 5 seconds' next time will perform at 2017-06-05 06:24:24 -0700
+I, [2017-06-05T06:24:33.128847 #34439]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-05T06:24:33.128893 #34439]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-05T06:24:33.128906 #34439]  INFO -- : Jobs:
+I, [2017-06-05T06:24:33.129080 #34439]  INFO -- : 'OrderSchedule' with rule 'every 5 seconds' next time will perform at 2017-06-05 06:24:33 -0700
+I, [2017-06-05T06:24:33.348166 #34452]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:33.350376 #34452]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:38.349713 #34452]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:38.353512 #34452]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:43.350768 #34452]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:43.352611 #34452]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:48.351250 #34452]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:48.354475 #34452]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:53.352551 #34452]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:53.355206 #34452]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:24:58.353533 #34452]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:24:58.356223 #34452]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:25:03.354185 #34452]  INFO -- : Perform OrderSchedule
+I, [2017-06-05T06:25:03.355386 #34452]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-05T06:25:04.180265 #34477]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-05T06:25:04.180398 #34477]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-05T06:25:04.180445 #34477]  INFO -- : Jobs:
+I, [2017-06-05T06:25:04.180702 #34477]  INFO -- : 'OrderSchedule' with rule 'every 5 seconds' next time will perform at 2017-06-05 13:25:08 UTC
+I, [2017-06-05T07:12:54.216077 #41341]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-05T07:12:54.224794 #41341]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-05T07:12:54.224833 #41341]  INFO -- : Jobs:
+I, [2017-06-05T07:12:54.225002 #41341]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-05 14:13:24 UTC
+I, [2017-06-05T07:13:24.217608 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:13:24.222628 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:13:24.222702 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:13:54.219319 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:13:54.219930 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:13:54.219981 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:14:24.219832 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:14:24.220411 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:14:24.220459 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:14:54.220546 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:14:54.221023 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:14:54.221066 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:15:24.221023 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:15:24.221858 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:15:24.221919 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:15:54.221985 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:15:54.222537 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:15:54.222584 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:16:24.222650 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:16:24.224195 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:16:24.224247 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:16:54.224795 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:16:54.225355 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:16:54.225482 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:17:24.225166 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:17:24.225794 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:17:24.225856 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:17:54.225734 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:17:54.226426 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:17:54.226477 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:18:24.226173 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:18:24.227097 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:18:24.227171 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:18:54.226844 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:18:54.227484 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:18:54.227542 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:19:24.227970 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:19:24.228921 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:19:24.228973 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:19:54.228481 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:19:54.229290 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:19:54.229343 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:20:24.229034 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:20:24.229959 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:20:24.230018 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:20:54.229522 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:20:54.230089 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:20:54.230162 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:21:24.230491 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:21:24.231141 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:21:24.231195 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:21:54.230996 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:21:54.231633 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:21:54.231676 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:22:24.231643 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:22:24.232299 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:22:24.232374 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:22:54.232597 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:22:54.233203 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:22:54.233299 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:23:24.233886 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:23:24.234349 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:23:24.234384 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:23:54.234205 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:23:54.234864 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:23:54.235434 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:24:24.234947 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:24:24.235977 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:24:24.236127 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:24:54.235504 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:24:54.236062 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:24:54.236114 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:25:24.236213 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:25:24.236669 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:25:24.236731 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:25:54.236988 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:25:54.237554 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:25:54.237626 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:26:24.237688 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:26:24.238685 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:26:24.238732 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:26:54.238985 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:26:54.239463 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:26:54.239498 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:27:24.239702 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:27:24.240239 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:27:24.240284 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:27:54.240892 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:27:54.394972 #41354] ERROR -- : Finished OrderSchedule in 0.05 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:27:54.395070 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:28:24.347471 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:28:24.348251 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:28:24.348361 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:28:54.348067 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:28:54.348594 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:28:54.348632 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:29:24.348637 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:29:24.349123 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:29:24.349186 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:29:54.350537 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:29:54.395888 #41354] ERROR -- : Finished OrderSchedule in 0.01 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:29:54.395971 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:30:24.381193 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:30:24.381742 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:30:24.382437 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:30:54.382326 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:30:54.382819 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:30:54.382872 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:31:24.382850 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:31:24.383337 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:31:24.383382 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:31:54.383198 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:31:54.383802 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:31:54.383854 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:32:24.383514 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:32:24.383980 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:32:24.384025 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:32:54.384064 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:32:54.384580 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:32:54.384623 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:33:24.385102 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:33:24.385679 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:33:24.385723 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:33:54.385841 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:33:54.386382 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:33:54.386472 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:34:24.386254 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:34:24.386841 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:34:24.386926 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:34:54.387369 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:34:54.388097 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:34:54.388164 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:35:24.387881 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:35:24.399766 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:35:24.399829 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:35:54.400076 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:35:54.400592 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:35:54.400655 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:36:24.401181 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:36:24.401953 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:36:24.402090 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:36:54.402245 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:36:54.402779 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:36:54.402867 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:37:24.402700 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:37:24.434032 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:37:24.434084 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:37:54.434082 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:37:54.434772 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:37:54.434815 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:38:24.434491 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:38:24.435041 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:38:24.435123 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:38:54.435110 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:38:54.435618 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:38:54.435659 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:39:24.435780 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:39:24.436233 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:39:24.436328 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:39:54.436338 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:39:54.436907 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:39:54.436960 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:40:24.437367 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:40:24.437950 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:40:24.437988 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:40:54.438340 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:40:54.439009 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:40:54.439052 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:41:24.438585 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:41:24.439177 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:41:24.439219 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:41:54.439419 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:41:54.439951 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:41:54.439998 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:42:24.440709 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:42:24.441299 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:42:24.441344 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:42:54.441379 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:42:54.441876 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:42:54.441926 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:43:24.441761 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:43:24.442236 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:43:24.442282 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:43:54.442528 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:43:54.443128 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:43:54.443175 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:44:24.443200 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:44:24.443805 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:44:24.443885 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:44:54.443661 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:44:54.444221 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:44:54.444305 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:45:24.444361 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:45:24.444993 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:45:24.445039 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:45:54.445431 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:45:54.445924 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:45:54.445969 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:46:24.446653 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:46:24.447124 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:46:24.447173 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:46:54.447125 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:46:54.447766 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:46:54.447816 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:47:24.447770 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:47:24.448402 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:47:24.448448 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:47:54.448847 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:47:54.449435 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:47:54.449477 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:48:24.450061 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:48:24.450670 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:48:24.450716 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:48:54.451051 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:48:54.451676 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:48:54.451718 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:49:24.452379 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:49:24.470023 #41354] ERROR -- : Finished OrderSchedule in 0.02 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:49:24.470084 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:49:54.452975 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:49:54.453487 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:49:54.453532 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:50:24.453749 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:50:24.454306 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:50:24.454447 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:50:54.454783 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:50:54.469469 #41354] ERROR -- : Finished OrderSchedule in 0.01 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:50:54.469565 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:51:24.455152 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:51:24.455672 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:51:24.455788 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:51:54.456172 #41354]  INFO -- : Perform OrderSchedule
+E, [2017-06-05T07:51:54.456597 #41354] ERROR -- : Finished OrderSchedule in 0.00 seconds with error: undefined method `scheduling_order' for SchedulingOrderController:Class
+E, [2017-06-05T07:51:54.456647 #41354] ERROR -- : /home/cris/Workspace/Dominik/app/jobs/order_schedule.rb:5:in `perform'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.4.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2017-06-05T07:52:21.970463 #47741]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-05T07:52:21.970513 #47741]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-05T07:52:21.970526 #47741]  INFO -- : Jobs:
+I, [2017-06-05T07:52:21.970628 #47741]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-05 14:52:24 UTC
+I, [2017-06-06T03:17:01.916840 #30157]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T03:17:01.943859 #30157]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T03:17:01.943982 #30157]  INFO -- : Jobs:
+I, [2017-06-06T03:17:01.944420 #30157]  INFO -- : 'OrderSchedule' with rule 'every 10 seconds' next time will perform at 2017-06-06 10:17:11 UTC
+I, [2017-06-06T03:17:11.917218 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:17:12.139221 #30178]  INFO -- : Finished OrderSchedule in 0.22 seconds
+I, [2017-06-06T03:17:21.918481 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:17:21.946849 #30178]  INFO -- : Finished OrderSchedule in 0.03 seconds
+I, [2017-06-06T03:17:31.919127 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:17:31.949567 #30178]  INFO -- : Finished OrderSchedule in 0.03 seconds
+I, [2017-06-06T03:17:41.919571 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:17:41.938367 #30178]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:17:51.921106 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:17:51.970096 #30178]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:18:01.922654 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:18:01.945458 #30178]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:18:11.923602 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:18:11.974109 #30178]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:18:21.925063 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:18:21.948147 #30178]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:18:31.925649 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:18:31.940512 #30178]  INFO -- : Finished OrderSchedule in 0.01 seconds
+I, [2017-06-06T03:18:41.926341 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:18:41.974567 #30178]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:18:51.927984 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:18:51.973490 #30178]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:19:01.929067 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:19:01.948050 #30178]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:19:11.930318 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:19:11.976622 #30178]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:19:21.931898 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:19:21.980531 #30178]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:19:31.933107 #30178]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:19:31.974720 #30178]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:19:39.515192 #30595]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T03:19:39.515275 #30595]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T03:19:39.515300 #30595]  INFO -- : Jobs:
+I, [2017-06-06T03:19:39.515494 #30595]  INFO -- : 'OrderSchedule' with rule 'every 10 seconds' next time will perform at 2017-06-06 10:19:41 UTC
+I, [2017-06-06T03:41:51.439726 #33729]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T03:41:51.463999 #33729]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T03:41:51.464037 #33729]  INFO -- : Jobs:
+I, [2017-06-06T03:41:51.464194 #33729]  INFO -- : 'OrderSchedule' with rule 'every 10 seconds' next time will perform at 2017-06-06 03:41:51 -0700
+I, [2017-06-06T03:41:51.648688 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:41:51.769583 #33740]  INFO -- : Finished OrderSchedule in 0.12 seconds
+I, [2017-06-06T03:42:01.649817 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:42:01.682271 #33740]  INFO -- : Finished OrderSchedule in 0.03 seconds
+I, [2017-06-06T03:42:11.651634 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:42:11.700470 #33740]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:42:21.653011 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:42:21.704390 #33740]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:42:31.654722 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:42:31.716446 #33740]  INFO -- : Finished OrderSchedule in 0.06 seconds
+I, [2017-06-06T03:42:41.655933 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:42:41.699881 #33740]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:42:51.656645 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:42:51.671955 #33740]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:43:01.657914 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:43:01.693503 #33740]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:43:11.658878 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:43:11.706478 #33740]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:43:21.659511 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:43:21.695714 #33740]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:43:31.660042 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:43:31.685975 #33740]  INFO -- : Finished OrderSchedule in 0.03 seconds
+I, [2017-06-06T03:43:41.661117 #33740]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:43:41.679778 #33740]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:43:45.131652 #34035]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T03:43:45.131751 #34035]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T03:43:45.131778 #34035]  INFO -- : Jobs:
+I, [2017-06-06T03:43:45.131930 #34035]  INFO -- : 'OrderSchedule' with rule 'every 10 seconds' next time will perform at 2017-06-06 10:43:51 UTC
+I, [2017-06-06T03:44:11.417967 #34181]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T03:44:11.418013 #34181]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T03:44:11.418026 #34181]  INFO -- : Jobs:
+I, [2017-06-06T03:44:11.418138 #34181]  INFO -- : 'OrderSchedule' with rule 'every 10 seconds' next time will perform at 2017-06-06 03:44:11 -0700
+I, [2017-06-06T03:44:11.644665 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:44:11.673434 #34192]  INFO -- : Finished OrderSchedule in 0.03 seconds
+I, [2017-06-06T03:44:21.645750 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:44:21.700131 #34192]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:44:31.646903 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:44:31.662962 #34192]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:44:41.648128 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:44:41.698581 #34192]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:44:51.649021 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:44:51.703090 #34192]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:45:01.650351 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:45:01.668410 #34192]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:45:11.651164 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:45:11.697956 #34192]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:45:21.652129 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:45:21.678283 #34192]  INFO -- : Finished OrderSchedule in 0.03 seconds
+I, [2017-06-06T03:45:31.652415 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:45:31.685370 #34192]  INFO -- : Finished OrderSchedule in 0.03 seconds
+I, [2017-06-06T03:45:41.653821 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:45:41.698285 #34192]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:45:51.654728 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:45:51.695168 #34192]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:46:01.656161 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:46:01.707050 #34192]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:46:11.657772 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:46:11.701693 #34192]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:46:21.658814 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:46:21.676044 #34192]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:46:31.659514 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:46:31.705312 #34192]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:46:41.660264 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:46:41.698199 #34192]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:46:51.660829 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:46:51.683348 #34192]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:47:01.662167 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:47:01.706649 #34192]  INFO -- : Finished OrderSchedule in 0.04 seconds
+I, [2017-06-06T03:47:11.662992 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:47:11.687943 #34192]  INFO -- : Finished OrderSchedule in 0.02 seconds
+I, [2017-06-06T03:47:21.663675 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:47:21.713010 #34192]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:47:31.665065 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:47:31.715499 #34192]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:47:41.666899 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:47:41.714134 #34192]  INFO -- : Finished OrderSchedule in 0.05 seconds
+I, [2017-06-06T03:47:51.668320 #34192]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:47:51.700062 #34192]  INFO -- : Finished OrderSchedule in 0.03 seconds
+I, [2017-06-06T03:47:57.696576 #34684]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T03:47:57.696631 #34684]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T03:47:57.696648 #34684]  INFO -- : Jobs:
+I, [2017-06-06T03:47:57.696776 #34684]  INFO -- : 'OrderSchedule' with rule 'every 10 seconds' next time will perform at 2017-06-06 10:48:01 UTC
+I, [2017-06-06T03:48:04.886554 #34697]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T03:48:04.886601 #34697]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T03:48:04.886614 #34697]  INFO -- : Jobs:
+I, [2017-06-06T03:48:04.886736 #34697]  INFO -- : 'OrderSchedule' with rule 'every 10 seconds' next time will perform at 2017-06-06 03:48:04 -0700
+I, [2017-06-06T03:48:05.094387 #34831]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:48:05.193045 #34831]  INFO -- : Finished OrderSchedule in 0.10 seconds
+I, [2017-06-06T03:48:15.095362 #34831]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:48:15.098983 #34831]  INFO -- : Finished OrderSchedule in 0.00 seconds
+I, [2017-06-06T03:48:25.095929 #34831]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T03:48:25.105837 #34831]  INFO -- : Finished OrderSchedule in 0.01 seconds
+I, [2017-06-06T03:48:31.388345 #34850]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T03:48:31.388464 #34850]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T03:48:31.388494 #34850]  INFO -- : Jobs:
+I, [2017-06-06T03:48:31.388716 #34850]  INFO -- : 'OrderSchedule' with rule 'every 10 seconds' next time will perform at 2017-06-06 10:48:35 UTC
+I, [2017-06-06T04:35:34.474517 #41204]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:35:34.489463 #41204]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:35:34.489592 #41204]  INFO -- : Jobs:
+I, [2017-06-06T04:35:34.490195 #41204]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 04:35:34 -0700
+I, [2017-06-06T04:35:34.729791 #41215]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:35:43.284893 #41215]  INFO -- : Finished OrderSchedule in 8.55 seconds
+I, [2017-06-06T04:36:04.731169 #41215]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:36:13.240257 #41215]  INFO -- : Finished OrderSchedule in 8.51 seconds
+I, [2017-06-06T04:36:34.732387 #41215]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:36:42.688938 #41215]  INFO -- : Finished OrderSchedule in 7.96 seconds
+I, [2017-06-06T04:37:04.733380 #41215]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:37:08.853000 #41544]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:37:08.853058 #41544]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:37:08.853077 #41544]  INFO -- : Jobs:
+I, [2017-06-06T04:37:08.853208 #41544]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 04:37:08 -0700
+I, [2017-06-06T04:38:28.713737 #41698]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:38:28.713779 #41698]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:38:28.713791 #41698]  INFO -- : Jobs:
+I, [2017-06-06T04:38:28.714003 #41698]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 04:38:28 -0700
+I, [2017-06-06T04:38:28.903522 #41709]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:38:37.081473 #41709]  INFO -- : Finished OrderSchedule in 8.18 seconds
+I, [2017-06-06T04:38:58.903838 #41709]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:39:02.810746 #41737]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:39:02.810793 #41737]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:39:02.810805 #41737]  INFO -- : Jobs:
+I, [2017-06-06T04:39:02.810916 #41737]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 04:39:02 -0700
+I, [2017-06-06T04:40:07.967895 #42022]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:40:07.967944 #42022]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:40:07.967959 #42022]  INFO -- : Jobs:
+I, [2017-06-06T04:40:07.968098 #42022]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 04:40:07 -0700
+I, [2017-06-06T04:40:08.191873 #42033]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:40:14.470294 #42033]  INFO -- : Finished OrderSchedule in 6.27 seconds
+I, [2017-06-06T04:40:38.205445 #42033]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:40:40.521341 #42066]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:40:40.521394 #42066]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:40:40.521409 #42066]  INFO -- : Jobs:
+I, [2017-06-06T04:40:40.521546 #42066]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 04:40:40 -0700
+I, [2017-06-06T04:46:10.028153 #42889]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:46:10.028201 #42889]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:46:10.028214 #42889]  INFO -- : Jobs:
+I, [2017-06-06T04:46:10.028321 #42889]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 04:46:10 -0700
+I, [2017-06-06T04:46:10.259203 #42900]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:46:25.974745 #42900]  INFO -- : Finished OrderSchedule in 15.72 seconds
+I, [2017-06-06T04:46:40.259752 #42900]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:46:46.946619 #42900]  INFO -- : Finished OrderSchedule in 6.69 seconds
+I, [2017-06-06T04:46:50.245509 #42950]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:46:50.245561 #42950]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:46:50.245574 #42950]  INFO -- : Jobs:
+I, [2017-06-06T04:46:50.245681 #42950]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 11:47:10 UTC
+I, [2017-06-06T04:52:15.102542 #43763]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:52:15.102604 #43763]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:52:15.102625 #43763]  INFO -- : Jobs:
+I, [2017-06-06T04:52:15.102795 #43763]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 04:52:15 -0700
+I, [2017-06-06T04:52:15.313672 #43774]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:52:22.572104 #43774]  INFO -- : Finished OrderSchedule in 7.26 seconds
+I, [2017-06-06T04:52:45.314856 #43774]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T04:52:48.756805 #43820]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T04:52:48.756845 #43820]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T04:52:48.756857 #43820]  INFO -- : Jobs:
+I, [2017-06-06T04:52:48.756949 #43820]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 04:52:48 -0700
+I, [2017-06-06T05:36:51.212736 #49496]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T05:36:51.212781 #49496]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T05:36:51.212794 #49496]  INFO -- : Jobs:
+I, [2017-06-06T05:36:51.212892 #49496]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 05:36:51 -0700
+I, [2017-06-06T05:36:51.427322 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:36:59.325060 #49507]  INFO -- : Finished OrderSchedule in 7.90 seconds
+I, [2017-06-06T05:37:21.428584 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:37:32.209468 #49507]  INFO -- : Finished OrderSchedule in 10.78 seconds
+I, [2017-06-06T05:37:51.429556 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:37:58.407790 #49507]  INFO -- : Finished OrderSchedule in 6.98 seconds
+I, [2017-06-06T05:38:21.430107 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:38:31.548533 #49507]  INFO -- : Finished OrderSchedule in 10.12 seconds
+I, [2017-06-06T05:38:51.431332 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:38:58.637155 #49507]  INFO -- : Finished OrderSchedule in 7.21 seconds
+I, [2017-06-06T05:39:21.432202 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:39:32.622635 #49507]  INFO -- : Finished OrderSchedule in 11.19 seconds
+I, [2017-06-06T05:39:51.432895 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:40:00.529964 #49507]  INFO -- : Finished OrderSchedule in 9.10 seconds
+I, [2017-06-06T05:40:21.434222 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:40:29.137837 #49507]  INFO -- : Finished OrderSchedule in 7.70 seconds
+I, [2017-06-06T05:40:51.435383 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:40:59.386224 #49507]  INFO -- : Finished OrderSchedule in 7.95 seconds
+I, [2017-06-06T05:41:21.436585 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:41:29.634222 #49507]  INFO -- : Finished OrderSchedule in 8.20 seconds
+I, [2017-06-06T05:41:51.437718 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:41:58.752318 #49507]  INFO -- : Finished OrderSchedule in 7.31 seconds
+I, [2017-06-06T05:42:21.438892 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:42:29.874255 #49507]  INFO -- : Finished OrderSchedule in 8.44 seconds
+I, [2017-06-06T05:42:51.440465 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:42:59.705473 #49507]  INFO -- : Finished OrderSchedule in 8.26 seconds
+I, [2017-06-06T05:43:21.441931 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:43:28.999805 #49507]  INFO -- : Finished OrderSchedule in 7.56 seconds
+I, [2017-06-06T05:43:51.442434 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:43:59.003389 #49507]  INFO -- : Finished OrderSchedule in 7.56 seconds
+I, [2017-06-06T05:44:21.443659 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:44:28.489416 #49507]  INFO -- : Finished OrderSchedule in 7.05 seconds
+I, [2017-06-06T05:44:51.444851 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:44:58.613368 #49507]  INFO -- : Finished OrderSchedule in 7.17 seconds
+I, [2017-06-06T05:45:21.446310 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:45:30.247769 #49507]  INFO -- : Finished OrderSchedule in 8.80 seconds
+I, [2017-06-06T05:45:51.447720 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:46:00.908633 #49507]  INFO -- : Finished OrderSchedule in 9.46 seconds
+I, [2017-06-06T05:46:21.448787 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:46:29.038704 #49507]  INFO -- : Finished OrderSchedule in 7.59 seconds
+I, [2017-06-06T05:46:51.449827 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:46:58.448655 #49507]  INFO -- : Finished OrderSchedule in 7.00 seconds
+I, [2017-06-06T05:47:21.451773 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:47:30.015603 #49507]  INFO -- : Finished OrderSchedule in 8.56 seconds
+I, [2017-06-06T05:47:51.452846 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:47:58.571432 #49507]  INFO -- : Finished OrderSchedule in 7.12 seconds
+I, [2017-06-06T05:48:21.454023 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:48:28.602568 #49507]  INFO -- : Finished OrderSchedule in 7.15 seconds
+I, [2017-06-06T05:48:51.454901 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:48:58.980934 #49507]  INFO -- : Finished OrderSchedule in 7.53 seconds
+I, [2017-06-06T05:49:21.455847 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:49:29.861033 #49507]  INFO -- : Finished OrderSchedule in 8.40 seconds
+I, [2017-06-06T05:49:51.456728 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:49:59.455622 #49507]  INFO -- : Finished OrderSchedule in 8.00 seconds
+I, [2017-06-06T05:50:21.457780 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:50:28.546341 #49507]  INFO -- : Finished OrderSchedule in 7.09 seconds
+I, [2017-06-06T05:50:51.458882 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:51:00.478764 #49507]  INFO -- : Finished OrderSchedule in 9.02 seconds
+I, [2017-06-06T05:51:21.460063 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:51:30.092083 #49507]  INFO -- : Finished OrderSchedule in 8.63 seconds
+I, [2017-06-06T05:51:51.461425 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:51:59.029068 #49507]  INFO -- : Finished OrderSchedule in 7.57 seconds
+I, [2017-06-06T05:52:21.462256 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:52:29.096710 #49507]  INFO -- : Finished OrderSchedule in 7.63 seconds
+I, [2017-06-06T05:52:51.463019 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:53:00.674572 #49507]  INFO -- : Finished OrderSchedule in 9.21 seconds
+I, [2017-06-06T05:53:21.464445 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:53:30.186547 #49507]  INFO -- : Finished OrderSchedule in 8.72 seconds
+I, [2017-06-06T05:53:51.465854 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:54:01.876461 #49507]  INFO -- : Finished OrderSchedule in 10.41 seconds
+I, [2017-06-06T05:54:21.467863 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:54:31.076508 #49507]  INFO -- : Finished OrderSchedule in 9.61 seconds
+I, [2017-06-06T05:54:51.469478 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:54:59.152601 #49507]  INFO -- : Finished OrderSchedule in 7.68 seconds
+I, [2017-06-06T05:55:21.470264 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:55:29.193425 #49507]  INFO -- : Finished OrderSchedule in 7.72 seconds
+I, [2017-06-06T05:55:51.471599 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:55:59.313124 #49507]  INFO -- : Finished OrderSchedule in 7.84 seconds
+I, [2017-06-06T05:56:21.473542 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:56:29.050536 #49507]  INFO -- : Finished OrderSchedule in 7.58 seconds
+I, [2017-06-06T05:56:51.474120 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:56:59.387505 #49507]  INFO -- : Finished OrderSchedule in 7.91 seconds
+I, [2017-06-06T05:57:21.475303 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:57:29.998142 #49507]  INFO -- : Finished OrderSchedule in 8.52 seconds
+I, [2017-06-06T05:57:51.476517 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:57:58.927647 #49507]  INFO -- : Finished OrderSchedule in 7.45 seconds
+I, [2017-06-06T05:58:21.477656 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:58:28.911641 #49507]  INFO -- : Finished OrderSchedule in 7.43 seconds
+I, [2017-06-06T05:58:51.479329 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:58:58.727875 #49507]  INFO -- : Finished OrderSchedule in 7.25 seconds
+I, [2017-06-06T05:59:21.480204 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:59:29.319324 #49507]  INFO -- : Finished OrderSchedule in 7.84 seconds
+I, [2017-06-06T05:59:51.480848 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T05:59:59.643556 #49507]  INFO -- : Finished OrderSchedule in 8.16 seconds
+I, [2017-06-06T06:00:21.482277 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:00:28.708649 #49507]  INFO -- : Finished OrderSchedule in 7.23 seconds
+I, [2017-06-06T06:00:51.483060 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:00:59.330593 #49507]  INFO -- : Finished OrderSchedule in 7.85 seconds
+I, [2017-06-06T06:01:21.484213 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:01:28.785504 #49507]  INFO -- : Finished OrderSchedule in 7.30 seconds
+I, [2017-06-06T06:01:51.485541 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:02:00.882854 #49507]  INFO -- : Finished OrderSchedule in 9.40 seconds
+I, [2017-06-06T06:02:21.486053 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:02:31.070456 #49507]  INFO -- : Finished OrderSchedule in 9.58 seconds
+I, [2017-06-06T06:02:51.486936 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:02:59.925910 #49507]  INFO -- : Finished OrderSchedule in 8.44 seconds
+I, [2017-06-06T06:03:21.487883 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:03:29.914371 #49507]  INFO -- : Finished OrderSchedule in 8.43 seconds
+I, [2017-06-06T06:03:51.489558 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:04:01.114806 #49507]  INFO -- : Finished OrderSchedule in 9.62 seconds
+I, [2017-06-06T06:04:21.490530 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:04:28.716601 #49507]  INFO -- : Finished OrderSchedule in 7.23 seconds
+I, [2017-06-06T06:04:51.492010 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:05:00.191103 #49507]  INFO -- : Finished OrderSchedule in 8.70 seconds
+I, [2017-06-06T06:05:21.492536 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:05:30.674293 #49507]  INFO -- : Finished OrderSchedule in 9.16 seconds
+I, [2017-06-06T06:05:51.515147 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:05:59.029740 #49507]  INFO -- : Finished OrderSchedule in 7.51 seconds
+I, [2017-06-06T06:06:21.516401 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:06:31.093823 #49507]  INFO -- : Finished OrderSchedule in 9.58 seconds
+I, [2017-06-06T06:06:51.618842 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:07:00.170066 #49507]  INFO -- : Finished OrderSchedule in 8.50 seconds
+I, [2017-06-06T06:07:21.672720 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:07:29.591600 #49507]  INFO -- : Finished OrderSchedule in 7.92 seconds
+I, [2017-06-06T06:07:51.673935 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:07:59.703931 #49507]  INFO -- : Finished OrderSchedule in 8.03 seconds
+I, [2017-06-06T06:08:21.674906 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:08:30.386299 #49507]  INFO -- : Finished OrderSchedule in 8.71 seconds
+I, [2017-06-06T06:08:51.675857 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:08:59.040971 #49507]  INFO -- : Finished OrderSchedule in 7.36 seconds
+I, [2017-06-06T06:09:21.676319 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:09:29.304577 #49507]  INFO -- : Finished OrderSchedule in 7.63 seconds
+I, [2017-06-06T06:09:51.678033 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:09:59.442712 #49507]  INFO -- : Finished OrderSchedule in 7.76 seconds
+I, [2017-06-06T06:10:21.679149 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:10:29.076476 #49507]  INFO -- : Finished OrderSchedule in 7.40 seconds
+I, [2017-06-06T06:10:51.680662 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:10:59.661559 #49507]  INFO -- : Finished OrderSchedule in 7.98 seconds
+I, [2017-06-06T06:11:21.681374 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:11:30.249440 #49507]  INFO -- : Finished OrderSchedule in 8.57 seconds
+I, [2017-06-06T06:11:51.682307 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:12:01.343135 #49507]  INFO -- : Finished OrderSchedule in 9.66 seconds
+I, [2017-06-06T06:12:21.683185 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:12:30.430409 #49507]  INFO -- : Finished OrderSchedule in 8.75 seconds
+I, [2017-06-06T06:12:51.684505 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:12:59.938562 #49507]  INFO -- : Finished OrderSchedule in 8.25 seconds
+I, [2017-06-06T06:13:21.685747 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:13:30.430276 #49507]  INFO -- : Finished OrderSchedule in 8.74 seconds
+I, [2017-06-06T06:13:51.687259 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:13:59.048081 #49507]  INFO -- : Finished OrderSchedule in 7.36 seconds
+I, [2017-06-06T06:14:21.688997 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:14:29.766706 #49507]  INFO -- : Finished OrderSchedule in 8.08 seconds
+I, [2017-06-06T06:14:51.690121 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:14:59.501623 #49507]  INFO -- : Finished OrderSchedule in 7.81 seconds
+I, [2017-06-06T06:15:21.691249 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:15:31.439417 #49507]  INFO -- : Finished OrderSchedule in 9.75 seconds
+I, [2017-06-06T06:15:51.692428 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:15:59.327015 #49507]  INFO -- : Finished OrderSchedule in 7.63 seconds
+I, [2017-06-06T06:16:21.692932 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:16:29.698636 #49507]  INFO -- : Finished OrderSchedule in 8.01 seconds
+I, [2017-06-06T06:16:51.694494 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:17:00.716124 #49507]  INFO -- : Finished OrderSchedule in 9.02 seconds
+I, [2017-06-06T06:17:21.696429 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:17:30.935178 #49507]  INFO -- : Finished OrderSchedule in 9.24 seconds
+I, [2017-06-06T06:17:51.697494 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:17:59.897339 #49507]  INFO -- : Finished OrderSchedule in 8.20 seconds
+I, [2017-06-06T06:18:21.698539 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:18:29.172027 #49507]  INFO -- : Finished OrderSchedule in 7.47 seconds
+I, [2017-06-06T06:18:51.699320 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:19:00.114363 #49507]  INFO -- : Finished OrderSchedule in 8.41 seconds
+I, [2017-06-06T06:19:21.700868 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:19:30.874787 #49507]  INFO -- : Finished OrderSchedule in 9.17 seconds
+I, [2017-06-06T06:19:51.702348 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:20:01.631683 #49507]  INFO -- : Finished OrderSchedule in 9.93 seconds
+I, [2017-06-06T06:20:16.358094 #57167]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T06:20:16.358218 #57167]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T06:20:16.358251 #57167]  INFO -- : Jobs:
+I, [2017-06-06T06:20:16.358542 #57167]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 13:20:21 UTC
+I, [2017-06-06T06:20:21.704045 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:20:29.888790 #49507]  INFO -- : Finished OrderSchedule in 8.18 seconds
+I, [2017-06-06T06:20:51.705475 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:21:00.178134 #49507]  INFO -- : Finished OrderSchedule in 8.47 seconds
+I, [2017-06-06T06:21:21.706359 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:21:29.427049 #49507]  INFO -- : Finished OrderSchedule in 7.72 seconds
+I, [2017-06-06T06:21:51.707546 #49507]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T06:22:00.149828 #49507]  INFO -- : Finished OrderSchedule in 8.44 seconds
+I, [2017-06-06T06:22:09.290120 #57503]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T06:22:09.290162 #57503]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T06:22:09.290174 #57503]  INFO -- : Jobs:
+I, [2017-06-06T06:22:09.290269 #57503]  INFO -- : 'OrderSchedule' with rule 'every 30 seconds' next time will perform at 2017-06-06 13:22:21 UTC
+I, [2017-06-06T07:29:23.985698 #66820]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T07:29:24.009443 #66820]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T07:29:24.009623 #66820]  INFO -- : Jobs:
+I, [2017-06-06T07:29:24.010281 #66820]  INFO -- : 'OrderSchedule' with rule 'every 20 seconds' next time will perform at 2017-06-06 14:29:43 UTC
+I, [2017-06-06T07:29:43.985780 #66832]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T07:29:48.979836 #66832]  INFO -- : Finished OrderSchedule in 4.99 seconds
+I, [2017-06-06T07:30:03.986697 #66832]  INFO -- : Perform OrderSchedule
+I, [2017-06-06T07:30:07.747198 #66832]  INFO -- : Finished OrderSchedule in 3.76 seconds
+I, [2017-06-06T07:30:09.672632 #66997]  INFO -- : Loading Crono 1.1.2
+I, [2017-06-06T07:30:09.672675 #66997]  INFO -- : Running in ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
+I, [2017-06-06T07:30:09.672689 #66997]  INFO -- : Jobs:
+I, [2017-06-06T07:30:09.672803 #66997]  INFO -- : 'OrderSchedule' with rule 'every 20 seconds' next time will perform at 2017-06-06 14:30:23 UTC
